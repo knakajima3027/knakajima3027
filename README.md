@@ -3,6 +3,8 @@
 * [Twitter](https://twitter.com/knakazin)
 * [Facebook](https://www.facebook.com/people/中島康平/100043135217012)
 
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=knakajima3027&show_icons=true&theme=radical)
+
 <!--
 **knakajima3027/knakajima3027** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
