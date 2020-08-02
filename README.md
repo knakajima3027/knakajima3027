@@ -1,3 +1,7 @@
+### Kohei Nakajima  
+* I'm japanese graduate school student.
+* Interests: backend, machine-learning, infrastructure
+
 ### LINKS 👋
 * [Blog](https://knakajima3027.hatenablog.com/)
 * [Twitter](https://twitter.com/knakazin)
