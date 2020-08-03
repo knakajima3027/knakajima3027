@@ -1,12 +1,12 @@
-### Kohei Nakajima  
-* I'm japanese graduate student.
+### Kohei Nakajima 😄 
+* I'm Japanese graduate student. 
 * Interests: backend, machine-learning, infrastructure
 
 ### LINKS 👋
 * [Blog](https://knakajima3027.hatenablog.com/)
 * [Twitter](https://twitter.com/knakazin)
 * [Facebook](https://www.facebook.com/people/中島康平/100043135217012)  
-
+* [Lapras](https://lapras.com/public/UOILZ3U)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=knakajima3027&count_private=true&show_icons=true" />
