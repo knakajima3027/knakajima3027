@@ -1,5 +1,5 @@
 ### Kohei Nakajima  
-* I'm japanese graduate school student.
+* I'm japanese graduate student.
 * Interests: backend, machine-learning, infrastructure
 
 ### LINKS 👋
