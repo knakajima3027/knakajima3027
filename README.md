@@ -1,3 +1,6 @@
+<a href="https://github-profile-trophy.vercel.app/?username=knakajima3027&row=2&column=3">
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=knakajima3027&row=2&column=3" />  
+  
 ### Kohei Nakajima 😄 
 * I'm Japanese graduate student. 
 * Interests: backend, machine-learning, infrastructure
