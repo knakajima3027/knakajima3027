@@ -1,6 +1,3 @@
-<a href="https://github-profile-trophy.vercel.app/?username=knakajima3027&row=1&column=6">
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=knakajima3027&row=1&column=6" />  
-  
 ### Kohei Nakajima 😄 
 * I'm Japanese graduate student. 
 * Interests: backend, machine-learning, infrastructure
@@ -12,10 +9,7 @@
 * [Lapras](https://lapras.com/public/UOILZ3U)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=knakajima3027&count_private=true&show_icons=true" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=knakajima3027" />
+  <img src="https://github-readme-stats.vercel.app/api?username=knakajima3027&count_private=true&show_icons=true" />
 </a>
 <!--
 **knakajima3027/knakajima3027** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
