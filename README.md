@@ -8,7 +8,9 @@
 * [Facebook](https://www.facebook.com/people/中島康平/100043135217012)  
 * [Lapras](https://lapras.com/public/UOILZ3U)
 
-[![](https://raw.githubusercontent.com/knakajima3027/github-profile-summary-cards-example/master/profile-summary-card-output/monokai/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=knakajima3027&count_private=true&show_icons=true" />
+</a>
 <!--
 **knakajima3027/knakajima3027** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
