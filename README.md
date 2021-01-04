@@ -4,7 +4,7 @@
 
 ### LINKS 👋
 * [Blog](https://knakajima3027.hatenablog.com/)
-* [Twitter](https://twitter.com/knakazin)
+* [Linkedin](https://www.linkedin.com/in/b78422202/)
 * [Facebook](https://www.facebook.com/people/中島康平/100043135217012)  
 * [Lapras](https://lapras.com/public/UOILZ3U)
 
